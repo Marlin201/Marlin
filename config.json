@@ -10,13 +10,15 @@
   "EMAIL": "your_email",
   "PASSWORD": "your_password",
   "OTPKEY": "",
-  "BOTNAME": "Sweet Marlin bot",
-  "PREFIX": "+",
+  "BOTNAME": "Sweet Marlin",
+  "PREFIX": "/",
 
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
     "61591566953451",
+    "61586663640809",
+    "100044713412032"
   ],
   "NDH": [
     "100044713412032"
